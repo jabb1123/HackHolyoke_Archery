@@ -1,0 +1,26 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680M    (ID=0x11a0)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.119 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+Platform assembly: F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree Tree1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+Platform assembly: F:\GitHub\HackHolyoke_Archery\Archery\Archery_Data\Managed\System.dll (this message is harmless)

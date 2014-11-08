@@ -41,7 +41,7 @@ public class FireArrow : MonoBehaviour {
 	void fire()
 	{
 		Rigidbody arrowClone = (Rigidbody) Instantiate (FlyingArrow,Bow.transform.position,Bow.transform.rotation);
-		arrowClone.velocity = (transform.TransformDirection(Vector3.down*20));
+		arrowClone.velocity = (transform.TransformDirection(Vector3.down*50));
 	}
 
 }
